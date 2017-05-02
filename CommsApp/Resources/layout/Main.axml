@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="#ffffff">
+    <EditText
+        android:inputType="text"
+        android:ems="10"
+        android:id="@+id/txtIP"
+        android:phoneNumber="false"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/connectButton" />
+    <EditText
+        android:inputType="text"
+        android:ems="10"
+        android:id="@+id/txtMessage"
+        android:phoneNumber="false"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendButton" />
+    <EditText
+        android:inputType="text"
+        android:ems="10"
+        android:id="@+id/txtLog"
+        android:phoneNumber="false"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
