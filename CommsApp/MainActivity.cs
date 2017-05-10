@@ -27,7 +27,8 @@ namespace CommsApp
             SetContentView (Resource.Layout.Main);
 
             ipText = FindViewById<EditText>(Resource.Id.txtIP);
-            // 아래 주소는 처리되지 않는다. 반드시 서버 실제 주로를 넣어야한다.
+
+            // 아래 주소로는 처리되지 않는다. 반드시 서버 실제 주로를 넣어야한다.
             ipText.Text = "127.0.0.1:2020";
             messageText = FindViewById<EditText>(Resource.Id.txtMessage);
             logText = FindViewById<EditText>(Resource.Id.txtLog);
