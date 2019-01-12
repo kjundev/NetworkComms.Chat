@@ -1,6 +1,9 @@
 # NetworkComms.Chat
 NetworkComms Chat Sample (winform, android)
-https://www.youtube.com/watch?v=OPf2Km4mxZ4&feature=youtu.be
+
+[![예제](https://www.youtube.com/watch?v=OPf2Km4mxZ4&feature=youtu.be)
+
+
 
 ![1](https://user-images.githubusercontent.com/19516121/35281387-2ae418d0-0096-11e8-8dcc-8e16f63063cb.JPG)
 ![2](https://user-images.githubusercontent.com/19516121/35281388-2b0ddbe8-0096-11e8-8505-31ea03fa9be8.JPG)
